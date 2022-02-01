@@ -7,7 +7,7 @@
 
 ## ![](https://upload.wikimedia.org/wikipedia/commons/e/ea/Noun_Project_Treasure_Map_1460610_cc.svg =64x) Journey of scientific computing is a winding one
 
-As showed previously, a typical research project might look like this:
+As showed in the [short introduction to scientific computing](https://hackmd.io/@AaltoSciComp/SciCompIntro), a typical research project might look like this:
 
 ![Typical research project](https://raw.githubusercontent.com/eglerean/eglerean.github.io/master/files/TheExperiment.svg)
 
@@ -17,7 +17,7 @@ A single project can require a huge number of skills and tools:
  - data cleaning
  - programming
  - running computational simulations
- - testing
+ - testing and profiling
  - documenting
  - data plotting
  - sharing data/code with collaborators
@@ -90,7 +90,7 @@ When working with Matlab it is good to remember that it is a commercial product 
 
 * Fast.
 * Designed for scientific computing from the beginning.
-* [Package ecosystem](https://julialang.org/packages/) is not quite as mature as in other languages, but it is quickly growing.
+* Good [package ecosystem](https://julialang.org/packages/) for scientific computing.
 
 #### R
 
